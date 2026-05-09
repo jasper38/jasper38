@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-## Portfolio/Projects... coming soon
+Portfolio/Projects... coming soon
 <!--
 **jasper38/jasper38** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
